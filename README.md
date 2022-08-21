@@ -1,0 +1,1 @@
+#Algoritmo aplicado a regra de negocio de um hotel para verificar a disponibilidade dos quartos#
